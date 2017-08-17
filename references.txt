@@ -1,3 +1,4 @@
 this is exercise 1, day 2. 
 Heale et al. 2016
 something new here
+purposeful merge conflict 
