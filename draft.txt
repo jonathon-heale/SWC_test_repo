@@ -1,4 +1,8 @@
 This is the first line of my document. 
 What happens when I add a second line?
 this is the third line in draft.txt. 
+<<<<<<< HEAD
 trying to make a change, commit before adding. 
+=======
+added line from github
+>>>>>>> 9bbbca644c98825fb2c8d660ed4ff189c6359c26
